@@ -1,4 +1,4 @@
-# Database Design & SQL Queries
+# 🛢️ Database Design & SQL Queries
 
 A simple vehicle rental system database, built using PostgreSQL and Beekeeper Studio.
 
@@ -80,7 +80,7 @@ values
 
 ## Theoretical Discussions
 
-This section poses some theoretical questions regarding database design & SQL queries which will be discussed in video format.
+This section poses some theoretical questions regarding database design & SQL queries which are discussed in video format [here](https://drive.google.com/drive/folders/10pp10asY4qvqvgE6Tb21cK_q-V2ViyC4?usp=sharing).
 
 #### Question 1
 
